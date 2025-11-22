@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<!-- This sitemap.xml file lists all pages to be indexed and any optional images -->
+	<url>
+		<loc>https://www.example.com/</loc>
+		<image:image><image:loc>https://www.example.com/favicon.ico</image:loc></image:image>
+	</url>
+	<url>
+		<loc>https://www.example.com/index</loc>
+	</url>
+</urlset>
